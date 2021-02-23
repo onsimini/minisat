@@ -12,15 +12,15 @@ MiniSat is, for now, an integration project of multi prouf of concept block.
 - power source - battery
 
 ### Liste of embedded electronics
- [ ] SD card - for log
- [ ] temperature
- [ ] pressure
- [ ] light
- [ ] accelerometrer
- [ ] magnetometer
- [ ] microphone
- [ ] LED
- [ ] proximity sensor
- [ ] buzzer
- [ ] ADC for battery sensing
+- [ ] SD card - for log
+- [ ] temperature
+- [ ] pressure
+- [ ] light
+- [ ] accelerometrer
+- [ ] magnetometer
+- [ ] microphone
+- [ ] LED
+- [ ] proximity sensor
+- [ ] buzzer
+- [ ] ADC for battery sensing
 
