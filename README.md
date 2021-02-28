@@ -8,10 +8,12 @@ To communicate with it, we will make a BT LE baseStation too.
 
 ### MiniSat Basic Specs.
 
+![SystemBlock](/imgs/minisat_system.png)
+
 - microprocessors with BlueTooth LE 5.2 (STM32WB55)
 - power source - battery
 
-### Liste of embedded electronics
+### Liste of possible embedded electronics
 - [ ] SD card - for log
 - [ ] temperature
 - [ ] pressure
