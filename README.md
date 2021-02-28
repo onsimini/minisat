@@ -4,10 +4,11 @@ It will first integrate STM32WB55, a bluetooth LE 5.2 SoC with a M4 and M0+ ARM 
 To communicate with it, we will make a BT LE baseStation too.
 
 ### MiniSat Basic Functions.
- - Beacon
+ - minisat_v0.1 : Beacon
 
 ### MiniSat Basic Specs.
 
+#### V0.1:
 ![SystemBlock](/docs/imgs/minisat_system.png)
 
 - microprocessors with BlueTooth LE 5.2 (STM32WB55)
