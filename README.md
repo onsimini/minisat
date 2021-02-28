@@ -6,9 +6,8 @@ To communicate with it, we will make a BT LE baseStation too.
 ### MiniSat Basic Functions.
  - minisat_v0.1 : Beacon
 
-### MiniSat Basic Specs.
+### MiniSat V0.1 Basic Specs.
 
-#### V0.1:
 ![SystemBlock](/docs/imgs/minisat_system.png)
 
 - microprocessors with BlueTooth LE 5.2 (STM32WB55)
