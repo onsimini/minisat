@@ -1,14 +1,14 @@
 # minisat
 MiniSat is, for now, an integration project of multi prouf of concept block.
+It will first integrate STM32WB55, a bluetooth LE 5.2 SoC with a M4 and M0+ ARM cortex microprocessors.
+To communicate with it, we will make a BT LE baseStation too.
 
 ### MiniSat Basic Functions.
  - Beacon
- - repeater
- - sensors
 
 ### MiniSat Basic Specs.
 
-- microcontroler with BlueTooth 5.2 (STM32WB55)
+- microprocessors with BlueTooth LE 5.2 (STM32WB55)
 - power source - battery
 
 ### Liste of embedded electronics
@@ -23,4 +23,3 @@ MiniSat is, for now, an integration project of multi prouf of concept block.
 - [ ] proximity sensor
 - [ ] buzzer
 - [ ] ADC for battery sensing
-
